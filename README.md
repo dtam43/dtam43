@@ -6,7 +6,7 @@ I'm a frontend developer learning fullstack development.
  - 💻 Pursuing a B.E.Sc. in Software Engineering at Western University
  - 🎶 Percussionist and Violinist 
  - 🎸 Currently learning the Guitar
- - 📱 Currently working with Flutter to create <a href="https://github.com/dtam43/pick_pro">Pick-Pro</a> to further my guitar skills
+ - 📱 Currently working with Flutter to create <a href="https://github.com/dtam43/pick_pro">PickPro</a> to further my guitar skills
 
 ## Technologies I've Worked With
 <p align="center">
