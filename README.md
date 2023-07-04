@@ -55,7 +55,6 @@ I'm a frontend developer learning fullstack development.
       <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
    </a> 
 </p>
-<br/>
 
 ## Reach Out to Me!
 <p align="center">
