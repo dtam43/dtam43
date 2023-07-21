@@ -67,7 +67,7 @@ I'm a frontend developer learning fullstack development.
   <a href="mailto:davidyhtam@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
    </a>
-  <a href="">
+  <a href="https://davidtam.me">
       <img src="https://img.shields.io/badge/Personal_Website-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white">
    </a>
 </p>
